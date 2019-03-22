@@ -3,8 +3,9 @@ Bowling Test for Interview
 
 Run using python 3.
 To run the docker tag use: 
-docker run -ti bowling_test
-bowling_test should be the tag name
+docker run -ti bowling_test_final
+
+bowling_test_final should be the tag name
 
 Input the score for each frame. Possible scores are: 
  X - Strike 
